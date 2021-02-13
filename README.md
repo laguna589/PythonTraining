@@ -8,4 +8,6 @@ Click on below link for Discord access: https://discord.gg/QPhnfbznFf
 
 Sample naming convention: mopen_py_helloworld_092020.py
 
-Course Schedule can be found under below link: (send us a message on Discord if you dont have access to the schedule link below) https://docs.google.com/spreadsheets/d/1K2GD1MjoHQMOUpNt3_B6s541NGF3OQMP87pqShMvUT8/edit?usp=sharing
+Course Schedule can be found under below link: (send us a message on Discord if you dont have access to the schedule link below) https://docs.google.com/spreadsheets/d/1qqJXKdHUu1Syf7gwHRelzDRD69HApw0FNI_y_JP5mUM/edit?usp=sharing
+
+Optional: Join our Facebook Group: https://www.facebook.com/groups/316704056008892
