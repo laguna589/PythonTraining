@@ -8,6 +8,11 @@ Click on below link for Discord access: https://discord.gg/QPhnfbznFf
 
 Sample naming convention: mopen_py_helloworld.py
 
-Course Schedule can be found under below link: (send us a message on Discord if you dont have access to the schedule link below) https://docs.google.com/spreadsheets/d/1qqJXKdHUu1Syf7gwHRelzDRD69HApw0FNI_y_JP5mUM/edit?usp=sharing
+Course Schedule can be found at:
+https://docs.google.com/spreadsheets/d/1qqJXKdHUu1Syf7gwHRelzDRD69HApw0FNI_y_JP5mUM/edit?usp=sharing
 
 Optional: Join our Facebook Group: https://www.facebook.com/groups/316704056008892
+
+PLEASE fill out the Google form at:
+https://docs.google.com/forms/d/e/1FAIpQLSdvQv6XBh56PcJOAPDxm-8fVCPLN9ZbjskRvuEyw_2zhHSyZQ/viewform
+so we know how your GitHib user name and Discord user name relate to your real name.
