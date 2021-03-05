@@ -1,4 +1,4 @@
-# Exercise 8.1
+# Exercise 7.1
 
 fnam = input('Enter a file name: ')
 
