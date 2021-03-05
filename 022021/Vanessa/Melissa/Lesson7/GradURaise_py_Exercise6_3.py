@@ -1,5 +1,4 @@
 # Exercise 6.3
-# Exercise 6.2
 word = input('Enter a lower case word: ')
 search = input('Enter a lower case letter in the word to count: ')
 
