@@ -7,7 +7,7 @@ except:
     print ("Try input numbers")
     exit(score)
 
-if score >= 0 and score <= 1:
+if 0 <= score <= 1:
         if score >= 0.9:
             print ("A")
         elif score >= 0.8:
